@@ -1,4 +1,2 @@
-hi
-hello
-wow
-you are hacked
+chmod cmd
+
